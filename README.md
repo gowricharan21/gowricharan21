@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Graphic Designing**
 
-- 📝 I regularly write articles on [https://gowricharan48.blogspot.com/](https://gowricharan48.blogspot.com/)
+<!---- 📝 I regularly write articles on [https://gowricharan48.blogspot.com/](https://gowricharan48.blogspot.com/)-->
 
 - 💬 Ask me about **solving puzzles**
 
